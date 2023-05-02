@@ -11,7 +11,7 @@ class HOMEAT extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("we can earn in ${days}"),
+          child: Text("${days}"),
         ),
       ),
       drawer: Drawer(),
